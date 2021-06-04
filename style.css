@@ -1,0 +1,100 @@
+.chameleon {
+    display: flex;
+align-items: flex-start;
+border: solid;
+
+}
+
+.chameleon *{
+
+
+}
+
+
+.camel {
+    display: flex;
+    align-items: flex-start;
+   border: solid;
+}
+.camel *{
+
+}
+
+
+.cicada {
+    display: flex;
+    align-items: flex-start;
+    border: solid;
+}
+.cicada *{
+
+
+}
+
+.panda {
+display: flex;
+border: solid;
+}
+.panda *{
+
+}
+
+
+.pigeon {
+display: flex;
+align-items: flex-start;
+border: solid;
+}
+.pigeon *{
+
+}
+
+
+.teddy {
+display: flex;
+align-items: flex-start;
+border: solid;
+}
+.teddy *{
+
+
+}
+
+.main{
+/*background-image: linear-gradient(#f7fd04,#f9b208,#f98404,#fc5404);*/
+display: flex;
+justify-content: space-between;
+padding: 15px;
+font-size: 20px;
+font-family: sans-serif;
+font-weight: 400;
+flex-wrap: wrap;
+
+}
+
+a{
+    display: flex;
+}
+
+img{
+border: 2px solid #000000;
+border-radius: 50px;
+
+}
+
+.full{
+    background-image: linear-gradient(#21094e,#511281,#4ca1a3,#a5e1ad);
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+
+}
+
+a:visited{
+    color: white;
+    text-decoration: none;
+}
+
+
